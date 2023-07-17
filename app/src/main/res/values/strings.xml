@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="student_name">Student Name : %s</string>
+    <string name="school_name">School Name : %s</string>
+</resources>
